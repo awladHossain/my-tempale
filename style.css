@@ -1,0 +1,368 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.upwork{
+	width: cover;
+	height: 32px;
+	background-color: black;
+
+}
+.upwork .manu {
+	width: cover;
+	height:150px;
+
+	
+}
+.upwork .manu ul li a{
+	text-decoration: none;
+	color: white;
+	padding:15px 42px;
+}
+.upwork .manu ul li{
+	list-style: none;
+	float: left;
+	
+	background-color: black;
+
+}
+.upwork .manu ul li:first-child{
+	background-color: red;
+	height: 32px;
+}
+.upwork .manu ul li a:hover{
+    background: red;
+    background-color: 2px;
+}
+.topbg{
+	background-image: url(two.jpg);
+	height: 600px;
+	background-size: cover;
+}
+.topbg h1 {
+	color: white;
+	text-align: center;
+	padding-top:  450px;
+	font-size: 50px;
+}
+.topbg p{
+	color: white;
+	text-align: center;
+	padding-top:  px;
+	font-size: 60px;
+}
+.secondpart{
+	background-color: white;
+	height: 900px;
+}
+.secondpart h1{
+	text-align: center;
+	color: black;
+	padding-top: 100px;
+}
+.secondpart p{
+	text-align: center;
+	margin-top: 20px;
+	font-size: 20px;
+	margin: 0 auto;
+	padding: 0px 50px;
+}
+.secondpart .col-1{
+	height: 320px;
+	width: 280px;
+	background-color: white;
+	border-radius: 9px;
+	box-shadow:   5px 10px;
+	margin-top: 50px;
+	margin-left: 100px;
+	float: left;
+}
+.secondpart .col-1 img{
+	height: 290px;
+	width: 190px;
+	margin-left: 44px;
+	border-radius: 4px;
+	margin-top: 5px;
+}
+.secondpart .col-1 p{
+	color: gray;
+}
+.secondpart .col-2{
+	height: 320px;
+	width: 280px;
+	background-color: white;
+	border-radius: 9px;
+	box-shadow:   5px 10px;
+	margin-top: 50px;
+	margin-left: 150px;
+	float: left;
+}
+.secondpart .col-2 p{
+	color: gray;
+}
+.secondpart .col-2 img{
+	height: 290px;
+	width: 190px;
+	margin-left: 44px;
+	border-radius: 4px;
+	margin-top: 5px;
+}
+.secondpart .col-3{
+	height: 320px;
+	width: 280px;
+	background-color: white;
+	border-radius: 9px;
+	box-shadow:   5px 10px;
+	margin-top: 50px;
+	margin-left: 170px;
+	float: left;
+}
+.secondpart .col-3 p{
+	color: gray;
+}
+.secondpart .col-3 img{
+	height: 290px;
+	width: 190px;
+	margin-left: 44px;
+	border-radius: 4px;
+	margin-top: 5px;
+}
+.thirdpart{
+	background-color: black;
+	height: 800px;
+}
+.thirdpart h1{
+	text-align: center;
+	padding: 30px;
+	font-size: 30px;
+	color: white;
+}
+.thirdpart p{
+	text-align: center;
+	margin-bottom:  50px;
+	color: gray;
+}
+.thirdpart input{
+	width: 50%;
+	padding: 10px 40px;
+	margin-left: 340px;
+	border-radius: 9px;
+	border: none;
+}
+.thirdpart .col-4{
+	height: 380px;
+	width: 250px;
+	background-color: white;
+	margin-top: 20px;
+	margin-left: 340px;
+	float: left;
+	border-radius: 6px;
+}
+.thirdpart .col-4 img{
+	width: 250px;
+	height: 150px;
+}
+.thirdpart .col-4 h1{
+	margin-left: 10px;
+	font-size: 20px;
+	color: black;
+}
+.thirdpart .col-4 p{
+	text-align: center;
+}
+.thirdpart .col-4 a{
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+	background-color: black;
+	margin-left: 30px;
+}
+.thirdpart .col-4 a:hover{
+	background-color: gray;
+}
+.thirdpart .col-5{
+	height: 380px;
+	width: 250px;
+	background-color: white;
+	margin-top: 20px;
+	margin-left: 20px;
+	float: left;
+	border-radius: 6px;
+}
+.thirdpart .col-5 img{
+	width: 250px;
+	height: 150px;
+}
+.thirdpart .col-5 h1{
+	margin-left: 10px;
+	font-size: 20px;
+	color: black;
+}
+.thirdpart .col-5 p{
+	text-align: center;
+	
+}
+.thirdpart .col-5 a{
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+	background-color: black;
+	margin-left: 30px;
+}
+.thirdpart .col-5 a:hover{
+	background-color: gray;
+}
+.thirdpart .col-6{
+	height: 380px;
+	width: 250px;
+	background-color: white;
+	margin-top: 20px;
+	margin-left: 20px;
+	float: left;
+	border-radius: 6px;
+}
+.thirdpart .col-6 img{
+	width: 250px;
+	height: 150px;
+}
+.thirdpart .col-6 h1{
+	margin-left: 10px;
+	font-size: 20px;
+	color: black;
+}
+.thirdpart .col-6 p{
+	text-align: center;
+	
+}
+.thirdpart .col-6 a{
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+	background-color: black;
+	margin-left: 30px;
+}
+.thirdpart .col-6 a:hover{
+	background-color: gray;
+}
+.fourpart{
+	height: 130px;
+	background-color: white;
+}
+.fourpart h1{
+	text-align: center;
+	padding-top: 70px;
+}
+.fourpart p{
+	text-align: center;
+}
+.fivepart{
+	height: 450px;
+	background-color: white;
+}
+.fivepart .margin{
+	height: 200px;
+	width: 1200px;
+	background-color: gray;
+	margin: 0 auto;
+}
+.fivepart .margin .first{
+	height: 200px;
+	width: 50%;
+	background-color: white;
+	float: left;
+}
+.fivepart .margin .two{
+	height: 200px;
+	width: 50%;
+	background-color: white;
+	float: left;
+}
+.fivepart .margin .first .location{
+	background-color: white;
+	height: 50px;
+	width: 500px;
+	margin-top: 50px;
+}
+.fivepart .margin .first .location img{
+	height: 50px;
+	width: 50px;
+	
+	margin-left: 20px;
+	float: left;
+}
+.fivepart .margin .first .location p{
+	margin-top: 20px;
+	margin-left: 50px;
+	font-size: 40px;
+}
+
+.fivepart .margin .first .phone{
+	background-color: white;
+	height: 50px;
+	width: 500px;
+	margin-top: 0px;
+}
+.fivepart .margin .first .phone img{
+	height: 50px;
+	width: 50px;
+	
+	margin-left: 20px;
+	float: left;
+}
+.fivepart .margin .first .phone p{
+	margin-top: 20px;
+	margin-left: 50px;
+	font-size: 40px;
+}
+.fivepart .margin .first .sms{
+	background-color: white;
+	height: 50px;
+	width: 500px;
+	margin-top: 0px;
+}
+.fivepart .margin .first .sms img{
+	height: 50px;
+	width: 50px;
+	
+	margin-left: 20px;
+	float: left;
+}
+.fivepart .margin .first .sms p{
+	margin-top: 20px;
+	margin-left: 50px;
+	font-size: 40px;
+}
+.fivepart .margin .two input{
+	width: 150px;
+	padding: 10px 15px;
+	margin-top: 50px;
+}
+.fivepart .margin .two a{
+	text-decoration: none;
+	color: white;
+	margin-left: 100px;
+	margin-top: 30px;
+	padding: 10px 15px;
+	background-color:  black;
+}
+.fivepart .margin .two a:hover{
+	background-color: gray;
+	color: red;
+}
+.sixpart{
+	background-image: url(Dhaka.jpg);
+	height: 600px;
+	background-image: cover;
+	
+	background-repeat: none;
+}
+.saven{
+	height: 200px;
+	background-color: white;
+}
+.saven p{
+ text-align: center;
+ margin-top: 70px;
+ font-size: 50px;
+ color: red;
+}
